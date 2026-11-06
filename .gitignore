@@ -1,0 +1,9 @@
+.DS_Store
+.claude/
+__pycache__/
+data/raw/living_pop/
+data/raw/boundary/
+data/raw/osm_tiles/
+data/raw/events/seoul_cultural_events.csv
+data/processed/yeouido_pop/
+/여의도_집계구_지도.html
